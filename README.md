@@ -4,6 +4,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
+## Author & Credits
+
+**Pacifique Bakundukize**  
+**Student ID: 26798**
 
 ## 📦 Project Overview
 
@@ -99,12 +103,6 @@ After pulling, run the project with:
 - [Insurance System](https://hub.docker.com/r/paccee/insurance-system-26798)
 
 ---
-
-## Author & Credits
-
-**Pacifique Bakundukize**  
-**Student ID: 26798**
-
 ---
 
 **Simply copy and paste the commands above in your terminal to run any project instantly!**
